@@ -1,2 +1,2 @@
 Installation:
-pip install ultralytic 
+pip install ultralytics
